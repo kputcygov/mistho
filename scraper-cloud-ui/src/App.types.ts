@@ -1,5 +1,5 @@
 export type ScrapersEntity = {
-    id: string;
+    id: number;
     name: string;
     url: string;
     selectors: string[];
