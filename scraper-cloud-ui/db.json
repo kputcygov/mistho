@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {"id": "yRTKiDy0-s_9zrh0zAMaK", "value": "learn react", "url": "google.com", "createdAt": 1650802513913, 
+    "xpaths": ["body", "header"]},
+    {"id": "Ia4t6uQ-op5aq4Hbt14qd", "value": "lear redux", "url": "msn.com", "createdAt": 1650804005530, 
+    "xpaths": ["body1", "header"]},
+    {"id": "uzj6QITRsvnMMmHAlv0nJ", "value": "fix my robot :D", "url": "aol.com", "createdAt": 1650804402054, 
+    "xpaths": ["body2", "header"]}
+  ]
+}
